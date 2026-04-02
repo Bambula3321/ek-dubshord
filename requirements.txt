@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly.express
+base64
+os
