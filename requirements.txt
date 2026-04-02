@@ -1,5 +1,5 @@
 streamlit
 pandas
 plotly.express
-base64
-os
+nump
+sklearn.linear_model
