@@ -2,4 +2,3 @@ streamlit
 pandas
 plotly.express
 nump
-sklearn.linear_model
